@@ -1,0 +1,61 @@
+html , body , h1 {
+ margin: 0;
+ padding: 0;
+}
+
+html {
+    background-color: aliceblue;
+
+}
+
+article , aside , section , header , footer , nav {
+    display: block;
+}
+
+main {
+    width: 660px;
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    box-shadow: 0 0 10px #666;
+    margin: 10px auto;
+    padding: 10px;
+
+}
+
+    #principal {
+        background-color: aliceblue;
+        border: 1px dotted #666;
+        margin-top: 20px;
+
+    }
+
+    section {
+        height: 100px;
+        width: 100px;
+        padding: 10px;
+    }
+
+    .janela1{
+        background-color: olive;
+        position: relative;
+        top: 10px;
+        left: 10px;
+
+    }
+
+    .janela2 {
+        background-color: crimson;
+        position: relative;
+        top: 10px;
+        left: 10px;
+
+    }
+
+    .janela3 {
+        background-color: aqua;
+
+    }
+
+
+    

@@ -1,0 +1,64 @@
+html , body , h1 {
+    margin: 0;
+    padding: 0;
+   }
+   
+   html {
+       background-color: aliceblue;
+   
+   }
+   
+   article , aside , section , header , footer , nav {
+       display: block;
+   }
+   
+   main {
+       width: 660px;
+       background-color: aliceblue;
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: 14px;
+       box-shadow: 0 0 10px #666;
+       margin: 10px auto;
+       padding: 10px;
+       position: relative;
+       height: 500px;
+   
+   }
+
+   #principal {
+    background-color: rgb(213, 218, 223);
+    border: 1px dotted #666;
+    margin-top: 20px;
+    position: relative;
+
+}
+
+section {
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+}
+
+.janela1{
+    background-color: olive;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+
+}
+
+.janela2 {
+     background-color: crimson;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+
+.janela3 {
+    background-color: aqua;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+
+}
+    
